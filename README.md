@@ -15,4 +15,4 @@
 - I'm translating a comic book from eckyo.me to russian language at [instagram](https://www.instagram.com/eckyo.me_ru/)
 - I'm from Russia & really love a US culture.
 
-In the end - I'm little guy with diverse interests. this line describes me best then all text before.
+In the end - *I'm little guy with diverse interests.* this line describes me best then all text before.
