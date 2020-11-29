@@ -1,10 +1,8 @@
 ## Something about me 😉
 * * *
 ### Some of the most famous facts about me
-- Freelance programmer? - it's me😏
 - I'm working in game industries🕹
-- I founded a "The HYENA studio" brand/company for teamwork under my projects [@thehyenastudio](https://github.com/thehyenastudio)
-> I do not like when all the glory is delivered to me. Releasing projects not under a personal brand, but under the brand of an organization, people subconsciously understand that the work was not done by one person.
+- I founded a "The HYENA studio" brand/company [@thehyenastudio](https://github.com/thehyenastudio)
 - My projects are published in a wide variety of stores, but the main [itch.io](https://thehyenastudio.itch.io)
 * * *
 ### Non-work related information
